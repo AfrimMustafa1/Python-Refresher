@@ -85,7 +85,7 @@ Finished in 0.083417s: fib(100) = 354224848179261915075
 
 The script records execution times and can generate a plot similar to the following:
 
-![Execution Time Plot](execution_time_plot.png)
+![Fibonacci Execution Time](fibonacci_execution_time.png)
 
 The x-axis represents `n` in Fibonacci number calculation, and the y-axis represents time in seconds.
 
@@ -104,5 +104,5 @@ The x-axis represents `n` in Fibonacci number calculation, and the y-axis repres
 ---
 
 ### Author:
-**[Afrim Mustafa]**  
+**Afrim Mustafa**  
 *University of Iowa - CS:3980 - Spring 2025*
