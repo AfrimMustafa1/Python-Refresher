@@ -91,6 +91,14 @@ The x-axis represents `n` in Fibonacci number calculation, and the y-axis repres
 
 ---
 
+## 4. Normalization Approach
+
+To ensure more consistent execution time measurements, I repeated the experiment multiple times. My initial attempts produced results that were significantly off due to variations in CPU load and system performance. By normalizing the data, I was able to minimize fluctuations caused by background processes and obtain a more accurate measurement of execution time.
+
+My TA confirmed that normalization is acceptable as long as I understand why I applied it. Additionally, my professor mentioned that execution time differences can sometimes occur due to CPU optimizations varying across different machines. However, grading will primarily focus on the correctness of the code.
+
+---
+
 ## Submission Requirements
 
 - The repository includes:
